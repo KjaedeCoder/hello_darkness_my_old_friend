@@ -1,0 +1,4 @@
+Linked: (/home/ros/robb33/devel/.private/hello_pkg/share/hello_pkg/cmake/hello_pkgConfig.cmake, /home/ros/robb33/devel/share/hello_pkg/cmake/hello_pkgConfig.cmake)
+Linked: (/home/ros/robb33/devel/.private/hello_pkg/share/hello_pkg/cmake/hello_pkgConfig-version.cmake, /home/ros/robb33/devel/share/hello_pkg/cmake/hello_pkgConfig-version.cmake)
+Linked: (/home/ros/robb33/devel/.private/hello_pkg/lib/hello_pkg/hello, /home/ros/robb33/devel/lib/hello_pkg/hello)
+Linked: (/home/ros/robb33/devel/.private/hello_pkg/lib/pkgconfig/hello_pkg.pc, /home/ros/robb33/devel/lib/pkgconfig/hello_pkg.pc)

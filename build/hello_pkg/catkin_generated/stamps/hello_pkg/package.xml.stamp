@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>hello_pkg</name>
+  <version>0.0.0</version>
+  <description>The hello_pkg package</description>
+
+  
+  <maintainer email="mkjade20@student.aau.dk">kjaede</maintainer>
+
+
+  <license>MIT</license>
+
+
+  
+
+
+  <author email="mkjade20@student.aau.dk">kjaede</author> -->
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+
+  <export>
+  
+  </export>
+</package>

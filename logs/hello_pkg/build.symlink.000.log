@@ -1,0 +1,4 @@
+Symlinking /home/ros/robb33/devel/share/hello_pkg/cmake/hello_pkgConfig.cmake
+Symlinking /home/ros/robb33/devel/share/hello_pkg/cmake/hello_pkgConfig-version.cmake
+Symlinking /home/ros/robb33/devel/lib/hello_pkg/hello
+Symlinking /home/ros/robb33/devel/lib/pkgconfig/hello_pkg.pc

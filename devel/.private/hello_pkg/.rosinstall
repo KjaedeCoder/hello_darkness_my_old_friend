@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ros/robb33/devel/.private/hello_pkg/setup.sh

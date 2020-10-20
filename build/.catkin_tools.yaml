@@ -1,0 +1,6 @@
+devel_space: /home/ros/robb33/devel
+install: false
+install_space: /home/ros/robb33/install
+profile: default
+source_space: /home/ros/robb33/src
+workspace: /home/ros/robb33

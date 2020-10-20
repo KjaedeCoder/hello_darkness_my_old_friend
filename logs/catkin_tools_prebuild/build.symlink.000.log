@@ -1,0 +1,12 @@
+Symlinking /home/ros/robb33/devel/./local_setup.zsh
+Symlinking /home/ros/robb33/devel/./setup.bash
+Symlinking /home/ros/robb33/devel/./setup.zsh
+Symlinking /home/ros/robb33/devel/./setup.sh
+Symlinking /home/ros/robb33/devel/./local_setup.bash
+Symlinking /home/ros/robb33/devel/./_setup_util.py
+Symlinking /home/ros/robb33/devel/./cmake.lock
+Symlinking /home/ros/robb33/devel/./local_setup.sh
+Symlinking /home/ros/robb33/devel/./env.sh
+Symlinking /home/ros/robb33/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/ros/robb33/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/ros/robb33/devel/lib/pkgconfig/catkin_tools_prebuild.pc
